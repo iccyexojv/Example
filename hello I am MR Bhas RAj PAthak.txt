@@ -1,0 +1,64 @@
+hello I am MR Bhas RAj PAthak
+
+
+<<<<<<< HEAD
+=======
+hello helloo 
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
+
+
+
+
+
+Conflict garumna sathi haru aauna
+
+
+
+<<<<<<< HEAD
+=======
+Partik Bhai Chitwan jaa
+
+<<<<<<< HEAD
+
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
+
+=======
+Sujan Bhaisabh Kaisan BAA
+>>>>>>> 48fcffe1dd44e2bd476a074b3f564714a5bf374f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suta lah babu
