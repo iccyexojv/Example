@@ -2,17 +2,14 @@ check
 ramrari check garw lah sathi 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 lolwa bitwa
 hello hello]
 asdfghjkl
-<<<<<<< HEAD
-
-
-
-
-
-poiuyjk,amncftyzuk,m 23456789
 =======
+lolwa bitwasakdaina ni feriiii
+>>>>>>> Stashed changes
+sakdaina ni feriiii
 =======
 lolwa bitwasakdaina ni feriiii
 >>>>>>> Stashed changes
