@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 test
-=======
 k ho k ho
 Yoooooooo!!
->>>>>>> a6adfd8974e4fa281b00e4853b60766bdbeb007f
 
 example
 
@@ -111,7 +108,6 @@ Sutam lah
 
 
 Sujan Babuwa kaise ho
-<<<<<<< HEAD
 
 
 
@@ -124,5 +120,12 @@ Sujan Babuwa kaise ho
 
 
 KAise ho bahisabh
-=======
->>>>>>> a6adfd8974e4fa281b00e4853b60766bdbeb007f
+
+
+
+
+
+
+
+hajur guys
+
