@@ -1,3 +1,19 @@
 check
 ramrari check garw lah sathi 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 lolwa bitwa
+hello hello]
+asdfghjkl
+=======
+lolwa bitwasakdaina ni feriiii
+>>>>>>> Stashed changes
+sakdaina ni feriiii
+=======
+lolwa bitwasakdaina ni feriiii
+>>>>>>> Stashed changes
+sakdaina ni feriiii
+=======
+lolwa bitwasakdaina ni feriiii
+>>>>>>> Stashed changes
