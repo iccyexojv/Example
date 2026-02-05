@@ -10,7 +10,7 @@ hello helloo
 
 
 
-
+Conflict garumna sathi haru aauna
 
 
 
@@ -18,9 +18,13 @@ hello helloo
 =======
 Partik Bhai Chitwan jaa
 
+<<<<<<< HEAD
 
 >>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
 
+=======
+Sujan Bhaisabh Kaisan BAA
+>>>>>>> 48fcffe1dd44e2bd476a074b3f564714a5bf374f
 
 
 
