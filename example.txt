@@ -1,11 +1,18 @@
+<<<<<<< HEAD
+=======
+test
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
 k ho k ho
 Yoooooooo!!
 
 example
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 aksm
 =======
+=======
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
 
 
 
@@ -110,4 +117,28 @@ Sutam lah
 
 
 Sujan Babuwa kaise ho
+<<<<<<< HEAD
 >>>>>>> a6adfd8974e4fa281b00e4853b60766bdbeb007f
+=======
+
+
+
+
+
+
+
+
+
+
+
+KAise ho bahisabh
+
+
+
+
+
+
+
+hajur guys
+
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449

@@ -1,6 +1,10 @@
 hello I am MR Bhas RAj PAthak
 
 
+<<<<<<< HEAD
+=======
+hello helloo 
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
 
 
 
@@ -10,6 +14,12 @@ hello I am MR Bhas RAj PAthak
 
 
 
+<<<<<<< HEAD
+=======
+Partik Bhai Chitwan jaa
+
+
+>>>>>>> 7a94b28cdf9fda97b82fcfeae1e593f32f144449
 
 
 
